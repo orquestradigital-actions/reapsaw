@@ -8,7 +8,7 @@ slackclient==1.2.1
 jira==1.0.15
 configparser==3.5.0
 PyJWT==1.6.4
-cryptography==2.2.2
+cryptography==39.0.1
 xmltodict==0.11.0
 junit2html==21
 node-semver==0.6.1
